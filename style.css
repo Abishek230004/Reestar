@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding: 20px;
+}
+.section-two__title,.section-three__title,.section-four__title,.section-five__title{
+    margin-top: 20px;
+}
+
+.section-two__des,.section-three__des,.section-four__des,.section-five__des{
+    margin-top: 10px;
+}
+
+.button{
+    border: none;
+    background-color: black;
+    color: whitesmoke;
+    padding: 5px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.section-one__des{
+    margin-top: 10px;
+}
+
+.section-two{
+    background-color: brown;
+    color: black;
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-right: 10px;
+    border: solid black 2px;
+    cursor: pointer;
+}
+.button{
+    margin-top: 10px;
+}
+
+
+.section-three{
+    background-color:orangered;
+    color: black;
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-right: 10px;
+    border: solid black 2px;
+    cursor: pointer;
+}
+
+
+.section-four{
+    background-color: darkgoldenrod;
+    color: black;
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-right: 10px;
+    border: solid black 2px;
+    cursor: pointer;
+
+}
+
+
+.section-five{
+    background-color: rgb(42, 151, 165);
+    color: black;
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    border: solid black 2px;
+    cursor: pointer;
+}
+
+.box{
+    margin-top: 20px;
+    text-align: center;
+    
+    
+}
+
+.detail{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.img-cuttlet{
+    width: 210px;
+    height: 150px;
+    margin-right: 10px;
+}
+.img-spiecy{
+    width: 210px;
+    height: 150px;
+}
+.img-chinese{
+    width: 210px;
+    height: 150px;
+}
+.img-pizza{
+    width: 210px;
+    height: 150px;
+}
+.detail-title{
+    margin-bottom: 20px;
+}
+.send__name{
+    margin-top: 20px;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    display:inline-block;
+    width: 200px;
+}
+
+.detail-numb,.detail-email{
+    margin-top: 10px;
+
+}
